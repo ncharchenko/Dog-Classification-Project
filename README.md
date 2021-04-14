@@ -66,3 +66,7 @@ Please do __NOT__ include any of the project data sets provided in the `dogImage
 ### Ready to submit your project?
 
 Click on the "Submit Project" button in the classroom and follow the instructions to submit!
+
+## Observation
+
+This project shows the benefit of using a cloud-native platform for training ML models. A single GPU on a local machine is woefully inefficient for developing a well-trained neural network in an efficient timeframe.
